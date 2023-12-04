@@ -1,0 +1,10 @@
+#appoint-row {
+    background-image: url(../../../assets/images/appointment.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#doctor-img {
+    width: 100%;
+    /* translate: 0 -10%; */
+}

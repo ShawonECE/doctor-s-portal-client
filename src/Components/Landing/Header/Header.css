@@ -1,0 +1,14 @@
+.header-main {
+    background-image: url(../../../assets/images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-1 {
+    border: none !important;
+    background: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
+}
+
+.btn-1:hover {
+    background: linear-gradient(90deg, #13a487 -22.5%, #1e97aa 120.83%);
+}

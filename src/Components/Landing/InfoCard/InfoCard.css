@@ -1,0 +1,33 @@
+.header-card {
+    border: none !important;
+}
+
+.card-row {
+    min-height: 85px;
+}
+
+.bg-primary {
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+}
+
+.bg-dark {
+    background-color: #3A4256;
+}
+
+.icon-opening, .icon-contact {
+    width: 90%;
+    height: auto;
+    margin: 0;
+}
+
+.icon-location {
+    width: 66.5%;
+    height: auto;
+    margin: 0;
+}
+
+.info-card-text {
+    font-weight: lighter;
+    font-size: small;
+    color: white;
+}
