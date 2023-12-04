@@ -23,7 +23,7 @@ const Footer = () => {
                 <p className='mb-2 footer-item'>New York, 101010 - Hudson</p>
             </Col>
             <br />
-            <small className='footer-item text-center mb-3'>Copyright {(new Date()).getFullYear()} All Rights Reserved</small>
+            <small className='footer-item text-center mb-3'>Copyright {(new Date()).getFullYear()} Shawon - All Rights Reserved</small>
         </Row>
     );
 };
